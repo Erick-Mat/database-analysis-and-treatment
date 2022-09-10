@@ -10,9 +10,9 @@ O programa tem como objetivo importar uma base de dados para o python, podendo s
 
 ## Instalação e Execução:
 
-Instalação:
+### Instalação:
 - Pandas: pip install pandas
 - Plotly: pip install plotly
 
-Execução:
+### Execução:
 - python dataanalysis.py
